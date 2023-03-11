@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmiszczak
-- 👀 I’m interested in agent-based modeling
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on quantum computing and complex systems
+- 👀 I’m interested in agent-based modeling, quantum programming
+- 🌱 I’m currently learning Java and NetLogo
+- 💞️ I’m looking to collaborate on quantum computing and agent-based modlling in complex systems
 - 📫 How to reach me: https://miszczak.eu
 
 <!---
